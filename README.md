@@ -11,8 +11,8 @@
 ## 开发人员
 
 
-- 控制软件开发：
-- 调试：
+- 控制软件开发：[张集智](https://github.com/zhangjizhi66)
+- 调试：[李云鹤](https://github.com/Liyunhe490) [张集智](https://github.com/zhangjizhi66)
 - 说明书撰写：
 - 指导： 
 
