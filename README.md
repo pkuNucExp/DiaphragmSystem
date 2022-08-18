@@ -18,7 +18,9 @@
 电脑如何实现既连外网同时又连接控制柜的内网？
 
 
+<img src=https://user-images.githubusercontent.com/111344794/185387451-066e680a-4b34-4754-a869-df0078fd8a35.jpg width=500 height=660 />
 
+<img src=https://user-images.githubusercontent.com/111344794/185388306-ab3a1634-d9ca-47c7-a2e1-ba81a60d2f90.jpg width=700 height=500 />
 
 
 ## 开发人员
