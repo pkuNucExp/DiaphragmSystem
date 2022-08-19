@@ -8,7 +8,7 @@
 
 系统后端使用信捷PLC软件编写，前端使用MCGS组态环境编写。
 
-使用说明参见wiki页面。
+使用说明参见 [wiki](https://github.com/pkuNucExp/DiaphragmSystem/wiki) 页面。
 
 <img src=https://user-images.githubusercontent.com/111344794/185387451-066e680a-4b34-4754-a869-df0078fd8a35.jpg width=500 height=660 />
 
